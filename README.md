@@ -1,8 +1,3 @@
-<img src="https://telegra.ph/file/74d3805aadcd4abcb1c8b.jpg" alt="jessimd" width="1280"/>
-</p>
-
-
-
 <p align="center">
 
  <a href="#"><img title="KATANA.BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -11,11 +6,6 @@
 
 <p align="center">
 
-<a href="https://github.com/Omarcharaf1"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Omar !-green.svg?style=for-the-badge&logo=github"></a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Omarcharaf&color=brightgreen" />
-
-</p>
 
 
 
@@ -36,14 +26,14 @@
 4. upload cards json to JitossaSession
 5. creat new app heroku
 6. and sign with github
-7. chose JITOSSA repo and deploy
+7. chose katana repo and deploy
 8. done your bot is conncet
 9. testing and gived star 🙋🏻‍♂️
 ```
 
 # SETUP 
 
-1. Fork The JITOSSA Repository 
+1. Fork The katana Repository 
 <a href="https://github.com/Omarcharaf1/KATANA.BOT/fork">
 <img title="KATANA bot"  src="https://img.shields.io/badge/FORK KATANA?color=orange&style=for-the-badge&logo=stackshare"></a>
 
