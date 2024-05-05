@@ -1,62 +1,71 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    *{
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-    body{
-        height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .container{
-        display: flex;
-        flex-direction: column;
-        width: 300px;
-        padding: 15px;
-        border: 1px solid 
-         orange;
-         border-radius: 5px;
-    }
-    input{
-        margin: 5px 0px;
-        height: 30px;
-        padding: 7px;
+<img src="https://telegra.ph/file/74d3805aadcd4abcb1c8b.jpg" alt="jessimd" width="1280"/>
+</p>
 
-    }
-    button{
-        height: 39px;
-        margin: 5px 0px;
-        background-color: bisque;
-        border: none;
-        border-radius: 5px;
-        color: azure;
-    }
-    button:hover{
-        background-color: beige;
-        color: blanchedalmond;
-    }
-</style>    
-</head>
-<body>
-    <div class="container">
-        <input type="email"
-        placeholder="email">
-        <input type="password"
-        placeholder="password">
-        <button>login</button>
-        <div class="remember-forgot">
-        <label><input type="checkbox" remember me</label>
-        <a href="#"> forgo-password? </a>
-      </div>
-        <button type="submit" class="btn"><login/button>
-            <div class="registre-linke">
-                <p>DON'T have an account?<a href="#"> registre</a></p>
-            </div>
 
-</body>
-</html>
+
+<p align="center">
+
+ <a href="#"><img title="KATANA.BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Omarcharaf1"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Omar !-green.svg?style=for-the-badge&logo=github"></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Omarcharaf&color=brightgreen" />
+
+</p>
+
+
+
+## ```Connect With Me```
+
+<a href="https://api.whatsapp.com/send?phone=212768752924&text=hello+katana"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://instagram.com/katana.bot"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
+
+
+
+
+``` 
+1. Heroku Account
+2. A WhatsApp Number
+3. Orises Code (KATANA.TEST)
+4. upload cards json to JitossaSession
+5. creat new app heroku
+6. and sign with github
+7. chose JITOSSA repo and deploy
+8. done your bot is conncet
+9. testing and gived star 🙋🏻‍♂️
+```
+
+# SETUP 
+
+1. Fork The JITOSSA Repository 
+<a href="https://github.com/Omarcharaf1/KATANA.BOT/fork">
+<img title="KATANA bot"  src="https://img.shields.io/badge/FORK KATANA?color=orange&style=for-the-badge&logo=stackshare"></a>
+
+2. GET creds.json
+
+   <a href='https://replit.com/@aomarcharaf20/JITOSSA-CODE' target="_blank"><img alt='PAIRE CODE HERE' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+ 
+
+3. Deploy Direct on Heroku
+
+ <a href='https://dashboard.heroku.com/new-app' target="_blank">
+<img alt='Deploy Heroku' src='https://img.shields.io/badge/deploy heroku-000?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+-----------
+dev 
+
+<a href="https://github.com/Omarcharaf"><img src="https://github.com/Omarcharaf1.png" width="200" height="200" alt="OMAR-7"/></a>
+
+-
+THANK YOU 🧚🏼‍♀️
+
+
+<a href="https://github.com/noureddineouafy"><img src="https://github.com/noureddineouafy.png" width="200" height="200" alt="NOUREDDIN"/></a>
